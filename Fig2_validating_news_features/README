@@ -1,8 +1,0 @@
-1. The factors extracted from Fig1_causal_feature_extraction is then cross referenced with time-stampped news corpus. An example of how this is done is given in granger_timeline.py
-$ python granger_timeline.py
- 
-2. The resulting time series values are then passed through the granger_parallel.py where based on non-zero coefficients, the predictive news factors are chosen.
-$ python granger_parallel.py
-
-3. The time series then chosen are plotted on the map and in scatter plots using Fig2_correlation.ipynb.
-

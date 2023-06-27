@@ -1,0 +1,104 @@
+seed,distance,freq-threshold
+food insecurity,0.00,1
+hunger crises,0.00,1
+famine,0.00,1
+serious hunger,0.70,0
+food uncertainty,0.86,0
+insufficient food,1.08,0
+persistent hunger,1.09,0
+increasing hunger,1.10,0
+miserable food conditions,1.16,0
+inflicted on food,1.18,0
+malnutrition,1.20,1
+food vulnerability,1.21,0
+food crisis,1.21,1
+disruption in food,1.23,0
+chronic hunger,1.24,0
+worsening hunger,1.24,0
+exacerbating hunger,1.24,0
+scarcity of food,1.26,1
+dearth of food,1.30,1
+starvation,1.30,1
+malnourished,1.33,1
+suffering from hunger,1.35,0
+severe hunger,1.35,0
+shortage of food,1.36,1
+scourge of hunger,1.37,0
+acute hunger,1.37,1
+staggering hunger,1.37,0
+widespread hunger,1.39,0
+averting hunger,1.41,0
+wretched hunger,1.41,0
+lack of food,1.42,1
+life-threatening hunger,1.42,1
+life endangering hunger,1.43,0
+hardening hunger,1.43,0
+escalating hunger,1.44,0
+food instability,1.45,0
+food incapacity,1.46,0
+relentless hunger,1.48,0
+critical food supplies,1.49,0
+lingering hunger,1.49,0
+strained food supplies,1.49,0
+mass hunger,1.49,0
+food unrest,1.51,0
+heights of hunger,1.52,0
+destabilized food chain,1.52,0
+curbing food supplies,1.53,0
+pestilence of hunger,1.53,0
+tremendous hunger,1.54,0
+fragility of food,1.54,0
+decreased food production,1.54,0
+growing hunger,1.55,0
+undernourishment,1.56,0
+retribution,1.56,0
+crippling hunger,1.56,0
+deprivation of food,1.57,0
+exhaustion of food,1.57,0
+Food seizures,1.57,0
+intensifying hunger,1.58,0
+deepening hunger,1.60,0
+brutal hunger,1.60,0
+food disaster,1.64,0
+destitution,1.64,0
+destroyed food supplies,1.65,0
+catastrophic hunger,1.65,0
+suffering for food,1.65,0
+onset of hunger,1.66,0
+threat of hunger,1.68,0
+suffocating hunger,1.70,0
+scant food supplies,1.72,0
+significant hunger,1.73,0
+devastating hunger,1.74,0
+food issues,1.74,0
+unabated hunger,1.75,0
+throes,1.75,0
+reduced food supplies,1.76,0
+alarming hunger,1.76,0
+succumbing to hunger,1.78,0
+substantial hunger,1.80,0
+inadequate food supplies,1.80,0
+ravaging hunger,1.80,0
+impoverished of food,1.82,0
+lapse in food,1.84,0
+debilitating hunger,1.85,0
+compounded hunger,1.87,0
+without food,1.96,0
+plaguing hunger,1.98,0
+rampant hunger,2.02,0
+diminishing food,2.04,0
+agonizing hunger,2.07,0
+fatal hunger,2.08,0
+absence of food,2.11,0
+humiliating hunger,2.16,0
+stricken by hunger,2.22,0
+thirst,2.24,0
+food collapse,2.26,0
+food plight,2.27,0
+Food disease,2.32,0
+crackdown on food,2.34,0
+food chaos,2.41,0
+paucity of food,2.54,0
+reduced food production,2.58,0
+extreme hunger,2.76,0
+failed food harvest,2.97,0
